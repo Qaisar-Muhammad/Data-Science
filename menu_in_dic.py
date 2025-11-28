@@ -9,7 +9,9 @@ menu={
     'sunday':{'Moring':['Tea','mali parata','anda'],'Evening':['rice','lobai','acher gost'],'Night':['banu chawal']},
 }
 
+
 for i,j in menu.items():
     print(f"Days menu in dashes : {i}")
     for key,value in j.items():
         print(f"  {key.capitalize()} : {value}")
+        

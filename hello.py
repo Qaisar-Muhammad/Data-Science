@@ -1,0 +1,1 @@
+print("Qaisair is Dtaa Scientist")
